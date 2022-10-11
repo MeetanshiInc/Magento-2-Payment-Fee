@@ -29,6 +29,6 @@ rise and at the same time offering multiple payment options without having the a
 
 * Charge the fee amount either in a fixed amount or in the percentage of the product price that is to be set from the backend.
 
-For more information, visit [https://meetanshi.com/magento-2-payment-fee.html](https://meetanshi.com/magento-2-payment-fee.html)
+For more information, visit ***[https://meetanshi.com/magento-2-payment-fee.html](https://meetanshi.com/magento-2-payment-fee.html)***
 
 
